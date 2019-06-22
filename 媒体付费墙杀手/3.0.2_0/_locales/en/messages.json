@@ -1,0 +1,41 @@
+{
+   "extensionDescription": {
+      "message": "Absolute killer for cookie based paywalls that is being used by most mainstream media sites"
+   },
+   "extensionName": {
+      "message": "Democracy Reads"
+   },
+   "popupExperimentalDescriptionSrc": {
+      "message": "Kills Godzilla"
+   },
+   "popupExperimentalLabelSrc": {
+      "message": "Experimental Block"
+   },
+   "popupGreetings1": {
+      "message": "Try out the Regular Block first, it should work for most sites"
+   },
+   "popupGreetings2": {
+      "message": "The advanced block might interfere with some media features, but it kills everything"
+   },
+   "popupGreetings3": {
+      "message": "Knock Knock"
+   },
+   "popupNoneDescriptionSrc": {
+      "message": "Kills your wallet"
+   },
+   "popupNoneLabelSrc": {
+      "message": "Disable Blocking"
+   },
+   "popupPowerDescriptionSrc": {
+      "message": "Kills strong paywalls"
+   },
+   "popupPowerLabelSrc": {
+      "message": "Power Block"
+   },
+   "popupRegularDescriptionSrc": {
+      "message": "Kills regular paywalls"
+   },
+   "popupRegularLabelSrc": {
+      "message": "Regular Block"
+   }
+}

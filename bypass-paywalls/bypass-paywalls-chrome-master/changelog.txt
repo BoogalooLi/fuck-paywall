@@ -1,0 +1,28 @@
+Updates--
+
+2018-11-11 v1.3.5: No longer updating changelog in favor of git log
+2018-10-07 v1.3.4: Fixed hbr.org, fixed medium.com, removed medscape.com
+2018-10-07 v1.3.3: Fixed haaretz.co.il
+2018-10-02 v1.3.2: Added The Advocate(theadvocate.com.au), added Examiner (examiner.com.au)
+2018-09-16 v1.3.1: Removed Het Financieele Dagblad (fd.nl)
+2018-09-09 v1.3.0: Fixed chicagobusiness.com
+2018-09-06 v1.2.11: Add Dynamed Plus
+2018-08-26 v1.2.10: Fixed alphabeticised lists, Added The New Statesman and The Spectator
+2018-07-04 v1.2.9: Added The Denver Post (denverpost.com, note: need to turn off uBlock for this site)
+2018-06-26 v1.2.8: Bug fixes (washingtonpost.com)
+2018-06-08 v1.2.7: Added Wired (wired.com)
+2018-05-20 v1.2.6: Added TheMarker (themarker.com)
+2018-05-12 v1.2.5: Fixed Boston Globe (bostonglobe.com)
+2018-05-10 v1.2.4: Fixed redirect issue
+2018-05-05 v1.2.3: Added Bloomberg (bloomberg.com)
+2018-04-23 v1.2.2: Added the English Version of Haaretz website (haaretz.com)
+2018-04-07 v1.2.1: Open Source'd Bypass Paywalls! Fixed The Economist (economist.com)
+2018-04-05 v1.2.0: added Corriere Della Sera (corriere.it), added Dagens Nyheter (dn.se), fixed The Age (theage.com.au)
+2018-01-30 v1.0.7: Added Medium (medium.com), added The Boston Globe (bostonglobe.com), added The Mercury News (mercurynews.com), removed The Australian (theaustralian.com.au), removed The Courier Mail (couriermail.com.au), removed The Telegraph (telegraph.co.uk)
+2017-09-14 v1.06: Added back Barron's, added Het Financieele Dagblad (fd.nl), added Le Temps (letemps.ch), added Haaretz (haaretz.co.il)
+2017-07-15 v1.05: removed Barron's as the google redirect no longer works
+2017-04-16: Added MIT Technology Review (technologyreview.com), NRC (nrc.nl), The Courier Mail (couriermail.com.au).
+2017-04-05: Added 'Nikkei Asian Review'.
+2017-02-25: If you are trying to view NYT articles or tired of the WSJ popup, try installing an adblocker (I recommend 'uBlock Origin').
+2017-02-16: Added 'The Australian'.
+2017-02-09: WSJ working again (bypass paywall)! Also added glassdoor, nytimes, seattletimes.

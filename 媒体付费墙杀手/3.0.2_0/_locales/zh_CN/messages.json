@@ -1,0 +1,41 @@
+{
+   "extensionDescription": {
+      "message": "打击媒体付费墙"
+   },
+   "extensionName": {
+      "message": "媒体付费墙杀手"
+   },
+   "popupExperimentalDescriptionSrc": {
+      "message": "打倒怪兽"
+   },
+   "popupExperimentalLabelSrc": {
+      "message": "实验打击"
+   },
+   "popupGreetings1": {
+      "message": "试一试正常打击，应该能打倒大多数网站"
+   },
+   "popupGreetings2": {
+      "message": "高级打击有可能会屏蔽一些多媒体，但是非常强大"
+   },
+   "popupGreetings3": {
+      "message": "好好学习天天向上"
+   },
+   "popupNoneDescriptionSrc": {
+      "message": "打倒您的钱包"
+   },
+   "popupNoneLabelSrc": {
+      "message": "关闭"
+   },
+   "popupPowerDescriptionSrc": {
+      "message": "打倒强大的付费墙"
+   },
+   "popupPowerLabelSrc": {
+      "message": "高级打击"
+   },
+   "popupRegularDescriptionSrc": {
+      "message": "打倒普通的付费墙"
+   },
+   "popupRegularLabelSrc": {
+      "message": "正常打击"
+   }
+}

@@ -1,0 +1,9 @@
+[
+  { "domain": "www.nytimes.com",        "policy": "regular" },
+  { "domain": "www.washingtonpost.com", "policy": "regular" },
+  { "domain": "www.bostonglobe.com",    "policy": "regular" },
+  { "domain": "www.newyorker.com",      "policy": "regular" },
+  { "domain": "foreignpolicy.com",      "policy": "regular" },
+  { "domain": "www.economist.com",      "policy": "power"   },
+  { "domain": "hbr.org",                "policy": "power"   }
+]

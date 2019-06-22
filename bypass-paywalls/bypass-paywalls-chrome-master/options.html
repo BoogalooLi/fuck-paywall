@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bypass Paywalls Options</title>
+  <style>
+    #bypass_sites label {
+      display: block;
+    }
+    body {
+      width:350px;
+      height:600px;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    Selected sites will have their cookies cleared and referer set to Google. You should
+    uncheck sites you have an account with or else you will be logged out at every visit.
+  </div>
+  <br/>
+  <div id='bypass_sites'>
+  </div>
+  <br/>
+  <div id="status"></div>
+  <div id="error"></div>
+  <br/>
+  <span style='float:left;'>
+    <button id="save">Save</button>
+  </span>
+  <span style='float:right;'>
+    <button id="select-all">Select all</button>
+    <button id="select-none">Select none</button>
+  </span>
+  <script src="options.js"></script>
+</body>
+</html>

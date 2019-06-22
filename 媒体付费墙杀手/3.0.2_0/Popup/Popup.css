@@ -1,0 +1,105 @@
+@import "./bootstrap.min.css";
+
+/**********************************************************************************************************************/
+.stacked-radio div {
+    clear: both;
+    overflow: hidden;
+}
+
+.stacked-radio label {
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 1px;
+    width: 13em;
+    border-radius: 3px;
+    border: 1px solid #D1D2D3;
+}
+
+.stacked-radio input[type="radio"]:empty {
+    display: none;
+}
+
+/**********************************************************************************************************************/
+.stacked-radio input[type="radio"]:empty ~ label {
+    position: relative;
+    line-height: 2.5em;
+    text-indent: 3.25em;
+    cursor: pointer;
+    user-select: none;
+}
+
+.stacked-radio input[type="radio"]:empty ~ label:before {
+    position: absolute;
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    content: "";
+    width: 2.5em;
+    background: #D1D2D3;
+}
+
+/**********************************************************************************************************************/
+.stacked-radio input[type="radio"]:hover:not(:checked) ~ label {
+    color: #888888;
+}
+
+.stacked-radio input[type="radio"]:hover:not(:checked) ~ label:before {
+    content: "\265B";
+    text-indent: .65em;
+    color: #F0F0F0;
+    background-color: #CCCCCC;
+    border-radius: 2px 0 0 2px;
+}
+
+/**********************************************************************************************************************/
+.stacked-radio input[type="radio"]:checked ~ label {
+    color: #000000;
+}
+
+.stacked-radio input[type="radio"]:checked ~ label:before {
+    content: "\262D";
+    text-indent: .65em;
+    color: #F0F0F0;
+    background-color: #CCCCCC;
+    border-radius: 2px 0 0 2px;
+}
+
+/**********************************************************************************************************************/
+.stacked-radio input[type="radio"]:focus ~ label:before {
+    box-shadow: 0 0 0 #888888;
+}
+
+/**********************************************************************************************************************/
+#stacked-radio-primary input[type="radio"]:hover:not(:checked) ~ label:before,
+#stacked-radio-primary input[type="radio"]:checked ~ label:before {
+    background-color: #337AB7;
+}
+
+#stacked-radio-success input[type="radio"]:hover:not(:checked) ~ label:before,
+#stacked-radio-success input[type="radio"]:checked ~ label:before {
+    background-color: #5CB85C;
+}
+
+#stacked-radio-warning input[type="radio"]:hover:not(:checked) ~ label:before,
+#stacked-radio-warning input[type="radio"]:checked ~ label:before {
+    background-color: #F0AD4E;
+}
+
+#stacked-radio-danger input[type="radio"]:hover:not(:checked) ~ label:before,
+#stacked-radio-danger input[type="radio"]:checked ~ label:before {
+    background-color: #D9534F;
+}
+/**********************************************************************************************************************/
+.comment-box {
+    display: block;
+    overflow-x: hidden;
+    width: 13em;
+    user-select: none;
+}
+
+.comments {
+    white-space: pre-line;
+    word-wrap: break-word;
+
+}

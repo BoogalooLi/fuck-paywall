@@ -1,0 +1,23 @@
+{
+   "author": "Cyproterone",
+   "background": {
+      "persistent": true,
+      "scripts": [ "./Main.js" ]
+   },
+   "browser_action": {
+      "default_icon": "./Assets/brown_icon.png",
+      "default_popup": "./Popup/Popup.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "icons": {
+      "128": "./Assets/brown_icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlCRyyD+Bm4b33H9GSgDIhecxxXM/0pyVq5DGSegSqFnggIPm1fdJkfSuNwwWzElVKZQRapTf5SCMgG2JGmBmST8Noq17E1OifCqCIZbxZ9AE9n0EbcVbIPU6395U0pATLhb5eoP/N9o6u/+AA5Ug98jtQUaA9mssRYbR1gGtS2bwaZEyCzUL7KJaTjGOwLqvYhG9Otbmmlg3Wh6XztexkO82ixwWpNy73GOZdCtV0jJ+ZjB/wp7w7NkJSg+sps9xck3/9PUmpDAoFWsj2fTsv8nVf3tTudjtuU9vmL2JLEMvt1ZnQZ8PdNflxK5NdA4fEA46gmAdbACdQl5AGvZLGwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "permissions": [ "cookies", "storage", "tabs", "http://*/*", "https://*/*", "contentSettings", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.2"
+}

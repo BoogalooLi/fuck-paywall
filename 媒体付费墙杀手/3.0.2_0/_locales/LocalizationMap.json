@@ -1,0 +1,22 @@
+{
+  "regular": {
+    "radio":          "radio-success",
+    "labelSrc":       "popupRegularLabelSrc",
+    "descriptionSrc": "popupRegularDescriptionSrc"
+  },
+  "power": {
+    "radio":          "radio-warning",
+    "labelSrc":       "popupPowerLabelSrc",
+    "descriptionSrc": "popupPowerDescriptionSrc"
+  },
+  "experimental": {
+    "radio":          "radio-danger",
+    "labelSrc":       "popupExperimentalLabelSrc",
+    "descriptionSrc": "popupExperimentalDescriptionSrc"
+  },
+  "none": {
+    "radio":          "radio-primary",
+    "labelSrc":       "popupNoneLabelSrc",
+    "descriptionSrc": "popupNoneDescriptionSrc"
+  }
+}
