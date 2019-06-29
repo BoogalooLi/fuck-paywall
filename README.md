@@ -15,7 +15,7 @@
 
 ## The Wall Street Journal Full Text Articles  
 油猴插件，用来破解华尔街日报的付费墙。目前已经在Greasymonkey上下架了，特此上传备份。  
-bypass-paywalls有时候抽风（华尔街日报可能会禁掉Facebook、Twitter的阅读免费接口），但是这个插件据作者所述是利用手机版获得文本内容，很稳！（华尔街日报的安卓破解版一直可用）  
+bypass-paywalls有时候抽风（华尔街日报可能会禁掉Facebook、Twitter的阅读免费接口），但是这个插件是利用手机版(url中添加/amp)获得文本内容，很稳！
 优点：稳。  
 缺点：没有评论区，看不到白左和红脖子撕逼。  
 
